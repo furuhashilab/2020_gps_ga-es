@@ -1,5 +1,5 @@
 # 2020_gps_ga-es
-ハッカソン用リポジトリ   
+2020年 位置情報ゲーム部 リポジトリ  
 # Project   
 https://github.com/furuhashilab/2020_gps_ga-es/projects/1   
 # issue   
